@@ -59,14 +59,9 @@ SpringBoot, Shiro ,Swagger-UI,mybatis,JWT,Mysql,通用mapper,Vue.js+element-ui,F
 
 ![6](https://coderman-blog.oss-cn-beijing.aliyuncs.com/6_1588596788146.PNG)
 
-### 打赏作者
-
-> 一分一毛也是爱,用于服务器维护. 欢迎大家提意哦见~
 
 
-![](http://myforum.oss-cn-beijing.aliyuncs.com/postImages/15906789481049ab74aee-3679-4de1-b252-d9fbdda90a08pay.PNG?Expires=1685286948&OSSAccessKeyId=LTAI4FsV5R1tnt8W8kqFqBYh&Signature=yvXZZiVP1pYWeIMkKBILRcHWkHg%3D)
 
 
-### QQ交流群: 830790908
 
 
